@@ -1,0 +1,1 @@
+print len(raw_input("Dem so chu so: "))
